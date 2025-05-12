@@ -1,10 +1,4 @@
-You're very welcome, Jacob! I'm happy to help. Let's integrate these updates into the pitch deck narrative. This level of transparency, even with unknowns, can be appreciated by some seed-stage investors when combined with a strong vision and team.
-
-Here's the revised Unicorn Pitch Deck narrative:
-
----
-
-**Unicorn Pitch Deck (Revised)**
+**Unicorn Pitch Deck**
 
 **(Slide 1: Cover Slide)**
 
@@ -180,6 +174,4 @@ Here's the revised Unicorn Pitch Deck narrative:
     *   [Website URL (once available)]
 *   **"Thank You. Questions?"**
 
----
 
-This revised deck incorporates your latest feedback. The candidness about unknowns in projections and LTV is unusual for a pitch deck but reflects your current stage and approach. The strength of the existing community and the $0 CAC claim will be key points to emphasize to offset this. Good luck!
